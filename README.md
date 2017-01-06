@@ -46,7 +46,7 @@ for the project.
 You can of course do several commits during the test to save your work. We'll look at the final result only.
 
 ## Submitting your solution
-To submit your solution, you can simply push your work into the repository (it's been made only for you).
+To submit your solution, you can simply fork this repository, push your work into the forked repository and communicate your repository link to us.
 
 
 ## How you will be evaluated
